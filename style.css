@@ -75,6 +75,7 @@ a {
 .image-one {
     position: relative;
     left: 180px;
+    border: white solid;
 }
 
 img {
@@ -83,3 +84,54 @@ img {
 }
 /* section one ends */
 /* section two starts */
+
+.section-two {
+    height: 50vh;
+    background-color: #f9faf8;
+    justify-content: center;
+}
+
+.container-two {
+    text-align: center;
+    padding-top: 40px;
+}
+
+.dogtwo-images {
+    display: flex;
+    margin-top: 40px;
+    justify-content: center;
+    gap: 50px;
+}
+
+.dogtwo-images img {
+    height: auto;
+    width: 200px;  
+    border: black solid; 
+}
+
+.dog-text {
+    display: flex;
+    margin-top: 5px;
+    justify-content: center;
+    gap: 155px;
+}
+
+.subtext-one {
+    inline-size: 100px;
+    text-align: center;
+}
+
+.subtext-two {
+    inline-size: 100px;
+    text-align: center;
+}
+
+.subtext-three {
+    inline-size: 100px;
+    text-align: center;
+}
+
+.subtext-four {
+    inline-size: 100px;
+    text-align: center;
+}
