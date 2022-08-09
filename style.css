@@ -100,20 +100,22 @@ img {
     display: flex;
     margin-top: 40px;
     justify-content: center;
-    gap: 50px;
+    gap: 20px;
 }
 
 .dogtwo-images img {
     height: auto;
-    width: 200px;  
-    border: black solid; 
+    width: 180px;  
+    border: black solid;
+    border-radius: 12px; 
 }
 
 .dog-text {
     display: flex;
     margin-top: 5px;
     justify-content: center;
-    gap: 155px;
+    gap: 103px;
+    
 }
 
 .subtext-one {
