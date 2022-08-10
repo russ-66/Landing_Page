@@ -167,6 +167,7 @@ img {
     display: flex;
     flex-direction: column;
     justify-content: center;
+    color:#f9faf8;
 }
 
 .modal {
@@ -176,7 +177,6 @@ img {
     margin-left: 180px;
     margin-right: 180px;
     border-radius: 10px;
-    color:#f9faf8;
     background-color: #3882f6;
     
 }
@@ -200,3 +200,17 @@ img {
     background-color: #3882f6;
     border:#f9faf8 solid;
 }
+/* section four ends*/
+/* footer starts */
+
+.footer {
+    height: 10vh;
+    background-color: #1f2937;
+    color:#f9faf8;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}
+
+/* footer ends */
